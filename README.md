@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->## Olá! eu sou o Matheus Takasaki Antunes, Desenvolvedor Front End e eterno aprendiz!
+-->
+## Olá! eu sou o Matheus Takasaki Antunes, Desenvolvedor Front End e eterno aprendiz!
 <div align="center">
     <a href="https://github.com/matheustakasaki">
         <img height="180em"
