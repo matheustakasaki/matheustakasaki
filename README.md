@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá! Me chamo Matheus Takasaki Antunes, sou Desenvolvedor Front-end e eu vivo para aprender!
+## Olá! Me chamo Matheus Takasaki Antunes e sou Desenvolvedor Full Stack!
 <div align="center">
     <a href="https://github.com/matheustakasaki">
 </div>
